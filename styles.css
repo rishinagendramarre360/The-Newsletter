@@ -1,0 +1,57 @@
+body {
+    text-align: center;
+    margin: 0;
+}
+
+#fo {
+    color: #121212;
+    font-weight: bold;
+}
+
+img {
+    width: 380px;
+    border: 3px solid black;
+}
+
+p {
+    width: 380px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    color: #121212;
+    font-style: italic;
+    font-weight: 500;    
+}
+
+#in {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    border: 3px solid #121212;
+    line-height: 30px;
+    width: 240px;
+}
+
+#btn {
+    background: #121212;
+    color: aliceblue;
+    border: none;
+    width: 246px;
+    line-height: 36px;
+    font-weight: 500;
+}
+
+#st {
+    color: #121212;
+    font-style: italic;
+    font-size: medium;
+}
+
+a {
+    color: #121212;
+}
+
+div {
+    border: 3px solid #121212;
+}
